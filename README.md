@@ -18,3 +18,7 @@ This is a simple Tamagotchi-style app for Android devices.
 2. Interact with your virtual pet by tapping the buttons to feed, play, and clean.
 3. Monitor your pet's stats and keep them healthy, happy, and clean.
 4. The countdown timer will simulate the passage of time in the game.
+
+
+## Resources
+- Tutorial on usage : [https://studio.youtube.com/video/eZyg-To2RBw/edit](https://youtu.be/eZyg-To2RBw)
