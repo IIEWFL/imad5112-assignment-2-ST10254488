@@ -2,7 +2,8 @@
 
 This is a simple Tamagotchi-style app for Android devices.
 
-![Screenshot_2024 05 03_21 01 37 788](https://github.com/IIEWFL/imad5112-assignment-2-ST10254488/assets/164567181/316a0c51-943a-4076-b500-d8161bfa5920)
+![Screenshot_2024 05 03_21 01 37 788](https://github.com/IIEWFL/imad5112-assignment-2-ST10254488/assets/164567181/51fac4a7-1686-4b5e-976a-d83b78f48c90)
+
 
 
 ## Features
