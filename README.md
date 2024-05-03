@@ -2,7 +2,7 @@
 
 This is a simple Tamagotchi-style app for Android devices.
 
-
+"C:\Users\lab_services_student\Pictures\BlueStacks\Screenshot_2024.05.03_21.01.37.788.png"
 
 ## Features
 
