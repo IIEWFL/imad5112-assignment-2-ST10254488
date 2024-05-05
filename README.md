@@ -23,6 +23,14 @@ This is a simple Tamagotchi-style app for Android devices.
 ## Resources
 - Tutorial on usage : [https://studio.youtube.com/video/eZyg-To2RBw/edit](https://youtu.be/eZyg-To2RBw)
 - Documentation - https://advtechonline-my.sharepoint.com/:w:/g/personal/st10254488_vcconnect_edu_za/Ea-t83jSOqBJkmuypIQOEH0Bhh7w2lkblD3Nce00EOTqag?e=3gIW8k
+- ## Github
+-   open cmd as administrator
+-   cd /project file/
+-   git init
+-   git add .
+-   git commit -m "First Commit"
+-   git remote add origin <Repostitory URL>
+-   git push origin master
 
 ## References
 - 	Gastón Saillén. (2019, December 14). How to create a simple countdown timer in Kotlin [Online forum post]. Stack Overflow. https://stackoverflow.com/questions/54095875/how-to-create-a-simple-countdown-timer-in-kotlin. [Assessed 02 May 2024]
