@@ -31,7 +31,7 @@ This is a simple Tamagotchi-style app for Android devices.
    - git add .
    - git commit -m "First Commit"
    - git remote add origin <Repostitory URL>
-   - git push origin master
+   - git push origin main
 
   ## Github Actions
    - https://github.com/IMAD5112/Github-actions/blob/main/.github/workflows/build.yml //Followed the link to a build.yml file
